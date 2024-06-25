@@ -1,0 +1,18 @@
+{
+    "name": "faker-php/faker",
+    "description": "Generate massive amounts of fake data in the PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "FakerPhp\\Faker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Faker PHP",
+            "email": "faker-php@proton.me"
+        }
+    ],
+    "require": {}
+}
